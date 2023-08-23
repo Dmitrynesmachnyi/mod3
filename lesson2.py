@@ -26,6 +26,7 @@ def strcounter2(a): # O(N)
     print(syms_counter)
 
 
+gkcfjfkjkv
 
 def strcounter3(a):
     for char in sorted(list(set(a))):
