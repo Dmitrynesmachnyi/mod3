@@ -5,3 +5,4 @@ for i in range(1000):
         s=s*2
         n = n-11
     if s==64:
+дооова
