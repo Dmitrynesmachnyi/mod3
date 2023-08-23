@@ -6,4 +6,5 @@ for i in range(1000):
         n = n-11
     if s==64:
         print(n)
-
+ggjnfkkd
+fhfkjkhfbjf
