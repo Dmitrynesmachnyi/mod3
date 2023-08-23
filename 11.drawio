@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T10:20:43.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.2.765 Yowser/2.5 Safari/537.36" etag="3LAtEUMgB0RdSU7kRR6H" version="21.6.9" type="device">
+  <diagram name="Страница — 1" id="hS6X3YdtnuoQWfmjEKCS">
+    <mxGraphModel dx="1002" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yeU7_V0VOmaToXeae7Ei-1" value="Товары" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU7_V0VOmaToXeae7Ei-2" value="Название (текст)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU7_V0VOmaToXeae7Ei-3" value="Описание (текст)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU7_V0VOmaToXeae7Ei-4" value="Кол на складе ( Число)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yeU7_V0VOmaToXeae7Ei-5" value="Цена (Число)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
